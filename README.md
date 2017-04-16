@@ -32,7 +32,7 @@
 <p>代码和上面方法一是一样的。</p>
 </blockquote>
 <p>来一张效果图：</p>
-<p><img src="/ueditor/php/upload/image/20170416/1492328631552144.gif" title="1492328631552144.gif" alt="GIF_20170416_132138.gif"></p>
+<p><img src="/raw/master/released/1492328631552144.gif" title="demo.gif" alt="demo.gif"></p>
 <p>GitHub地址：<a href="https://github.com/gyhua96/Splash-Screen" target="_blank" title="" data-original-title="Splash Screen">Splash Screen</a></p>
 <p>转载请注明：<a href="http://www.gongyuhua.cn" data-original-title="" title="">往南往北</a> » <a href="http://www.gongyuhua.cn/2017/04/16/442.html" data-original-title="" title="">安卓欢迎界面、启动画面实现</a></p>
 
