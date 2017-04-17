@@ -10,4 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+    public void onBackPressed() {
+        // Finish this application when press back on main activity
+        finish();
+ }
 }
